@@ -1,5 +1,5 @@
-const SHELL_CACHE = 'gamevault-v4.0-shell';
-const IMAGE_CACHE = 'gamevault-v4.0-images';
+const SHELL_CACHE = 'gamevault-v4.1-shell';
+const IMAGE_CACHE = 'gamevault-v4.1-images';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 const IMAGE_HOSTS = ['media.rawg.io', 'shared.steamstatic.com', 'cdn.cloudflare.steamstatic.com'];
 
